@@ -1,3 +1,3 @@
 def intrduction(name)
-  puts "Hi, my name is #{"Josh"}."
+  puts "Hi, my name is #{name}."
 end
